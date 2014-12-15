@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: shanicus_development
+
+test:
+  adapter: postgresql
+  database: shanicus_test
+
+production:
+  adapter: postgresql
+  database: shanicus_production
